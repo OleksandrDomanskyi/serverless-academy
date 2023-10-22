@@ -1,0 +1,13 @@
+{
+  "name": "01_cli_interactive_sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "choicecli.js",
+  "bin": "choicecli.js",
+  "scripts": {
+    "start": "node choicecli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
