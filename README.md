@@ -3,4 +3,4 @@
 ## To run the first app
 
 - `cd 01_cli_interactive_sort` &mdash; goes to the task folder.
-- `npm start` &mdash; starts server in a production mode.
+- `npm start` &mdash; starts app in a production mode.
