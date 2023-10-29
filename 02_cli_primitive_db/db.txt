@@ -1,0 +1,17 @@
+[
+    {
+        "user": "Mamont",
+        "gender": "male",
+        "age": 38
+    },
+    {
+        "user": "Kedra",
+        "gender": "female",
+        "age": null
+    },
+    {
+        "user": "Kedra",
+        "gender": "female",
+        "age": 34
+    }
+]

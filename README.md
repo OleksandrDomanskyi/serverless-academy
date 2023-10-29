@@ -4,3 +4,8 @@
 
 - `cd 01_cli_interactive_sort` &mdash; goes to the task folder.
 - `npm start` &mdash; starts app in a production mode.
+
+## To run the second app
+
+- `cd 02_cli_primitive_db` &mdash; goes to the task folder.
+- `npm start` &mdash; starts app in a production mode.
