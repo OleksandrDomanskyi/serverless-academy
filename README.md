@@ -9,3 +9,8 @@
 
 - `cd 02_cli_primitive_db` &mdash; goes to the task folder.
 - `npm start` &mdash; starts app in a production mode.
+
+## To run the third app
+
+- `cd 03_cli_telegram_console_sender` &mdash; goes to the task folder.
+- `npm start` &mdash; starts app in a production mode.
