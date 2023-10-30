@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +12,5 @@
   "dependencies": {
     "commander": "^11.1.0",
     "node-telegram-bot-api": "^0.64.0"
-  },
-  "type": "module"
+  }
 }

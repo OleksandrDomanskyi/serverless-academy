@@ -6,6 +6,10 @@
 
 ## Task requirements
 
+So, in this task you need to create an application, once launched, should turn a boring console into an interactive tool that can be used to create multiple users, put their information, and then search for users in an already populated database.
+
+This time you’re allowed to use an external NPM library named inquirer that is a set of useful functions for creating fancy CLI apps.
+
 ### The Algorithm
 
 After launching the program, a message is displayed asking for a name, meaning we enter the user creation mode:

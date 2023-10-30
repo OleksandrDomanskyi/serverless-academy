@@ -2,9 +2,17 @@
 
 ## To run app
 
-`npm start` &mdash; starts server in a production mode.
+`npm start` &mdash; wakes up the bot.
+
+## Bot commands
+
+- `node app.js m 'Write your message here'` &mdash; sends the message entered in the console to the bot.
+- `node app.js p 'Drag and drop your image here'` &mdash; sends the image sent in the console to the bot.
+- `node app.js --help` &mdash; shows descriptions about the commands and their options in the console.
 
 ## Task requirements
+
+In this task we will create a simple telegram bot that can act as notes or notepad when you need to save something urgently from the console.
 
 ### Tools and libraries you can use
 
