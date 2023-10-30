@@ -14,3 +14,8 @@
 
 - `cd 03_cli_telegram_console_sender` &mdash; goes to the task folder.
 - `npm start` &mdash; starts app in a production mode.
+
+## To run the fourth app
+
+- `cd 04_telegram_bot_weather_forecast` &mdash; goes to the task folder.
+- `npm start` &mdash; starts app in a production mode.
