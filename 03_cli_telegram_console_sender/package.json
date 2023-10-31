@@ -2,7 +2,7 @@
   "name": "03_cli_telegram_console_sender",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },

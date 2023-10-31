@@ -19,3 +19,8 @@
 
 - `cd 04_telegram_bot_weather_forecast` &mdash; goes to the task folder.
 - `npm start` &mdash; starts app in a production mode.
+
+## To run the fifth app
+
+- `cd 05_telegram_bot_exchange_rates` &mdash; goes to the task folder.
+- `npm start` &mdash; starts app in a production mode.
