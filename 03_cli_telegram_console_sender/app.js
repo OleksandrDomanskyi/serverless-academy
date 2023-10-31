@@ -1,3 +1,4 @@
+// Bot link - https://t.me/MamontsConsoleSenderBot
 const { Command } = require('commander');
 const TelegramApi = require('node-telegram-bot-api');
 
