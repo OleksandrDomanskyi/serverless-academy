@@ -1,4 +1,4 @@
-# Task 3: TELEGRAM BOT: EXCHANGE RATES
+# Task 5: TELEGRAM BOT: EXCHANGE RATES
 
 ## To run app
 

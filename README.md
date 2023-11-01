@@ -24,3 +24,8 @@
 
 - `cd 05_telegram_bot_exchange_rates` &mdash; goes to the task folder.
 - `npm start` &mdash; starts app in a production mode.
+
+## To run the sixth app
+
+- `cd 06_instagram_giveaway` &mdash; goes to the task folder.
+- `npm start` &mdash; starts app in a production mode.
