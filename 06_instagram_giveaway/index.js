@@ -1,7 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-async function processFiles() {
+async function startProgram() {
     const dirName = '2kk_words_400x400';
     const fullPath = path.join(__dirname, dirName);
     try {
@@ -52,4 +52,4 @@ async function processFiles() {
     }
 }
 
-processFiles();
+startProgram();
