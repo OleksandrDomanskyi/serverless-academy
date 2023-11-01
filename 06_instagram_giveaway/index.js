@@ -47,8 +47,8 @@ async function startProgram() {
         console.log('existInAllFiles:', existInAllFiles());
         console.log('existInAtleastTen:', existInAtleastTen());
         console.log('Total time:', roundedTime + 's');
-    } catch (err) {
-        console.error('Error:', err);
+    } catch (error) {
+        console.log(error);
     }
 }
 
