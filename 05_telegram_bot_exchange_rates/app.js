@@ -170,12 +170,12 @@ function findMonoRate(data, currency) {
 };
 
 function sendRateMessage(chatId, currency, privatRate, monoRate) {
-    const privatBankBuy = parseFloat(privatRate.buy).toFixed(2);
-    const privatBankSell = parseFloat(privatRate.sale).toFixed(2);
-    const monobankBuy = parseFloat(monoRate.rateBuy).toFixed(2);
-    const monobankSell = parseFloat(monoRate.rateSell).toFixed(2);
+    const privatBuy = parseFloat(privatRate.buy).toFixed(2);
+    const privatSell = parseFloat(privatRate.sale).toFixed(2);
+    const monoBuy = parseFloat(monoRate.rateBuy).toFixed(2);
+    const monoSell = parseFloat(monoRate.rateSell).toFixed(2);
 
-    bot.sendMessage(chatId, `Exchange rate for ${currency}:\nPrivatBank - BUY: ${privatBankBuy}, SELL: ${privatBankSell}\nMonobank - BUY: ${monobankBuy}, SELL: ${monobankSell}`);
+    bot.sendMessage(chatId, `Exchange rate for ${currency}:\nPrivatBank - BUY: ${privatBuy}, SELL: ${privatSell}\nMonobank - BUY: ${monoBuy}, SELL: ${monoSell}`);
 };
 
 
