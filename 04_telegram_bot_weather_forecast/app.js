@@ -39,7 +39,6 @@ const intervalOptions = {
 
 bot.setMyCommands([
     { command: '/start', description: 'Starts the weather forecast program' },
-    { command: '/exit', description: 'Exit the weather forecast program' }
 ]);
 
 bot.on('message', async msg => {
@@ -49,10 +48,6 @@ bot.on('message', async msg => {
 
     if (text === '/start') {
         return bot.sendMessage(chatId, message, cityOptions);
-    };
-
-    if (text === '/exit') {
-        process.exit();
     };
 });
 
