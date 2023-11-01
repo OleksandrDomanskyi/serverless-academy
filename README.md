@@ -29,3 +29,8 @@
 
 - `cd 06_instagram_giveaway` &mdash; goes to the task folder.
 - `npm start` &mdash; starts app in a production mode.
+
+## To run the seventh app
+
+- `cd 07_grouping_vacations` &mdash; goes to the task folder.
+- `npm start` &mdash; starts app in a production mode.

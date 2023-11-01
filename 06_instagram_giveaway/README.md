@@ -2,7 +2,7 @@
 
 ## To run app
 
-`npm start` &mdash; wakes up the bot.
+`npm start` &mdash; starts the code.
 
 ## Task requirements
 
