@@ -34,3 +34,8 @@
 
 - `cd 07_grouping_vacations` &mdash; goes to the task folder.
 - `npm start` &mdash; starts app in a production mode.
+
+## To run the seventh app
+
+- `cd 08_json_sorting` &mdash; goes to the task folder.
+- `npm start` &mdash; starts app in a production mode.
